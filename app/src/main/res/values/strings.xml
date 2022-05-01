@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">TasbeehCounter</string>
-    <string name="count">0</string>
+    <string name="counter">0</string>
     <string name="Inc">Increase</string>
     <string name="Dec">Decrease</string>
     <string name="reset">Reset</string>
